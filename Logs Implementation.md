@@ -5,12 +5,16 @@
 {\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
 {\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
 {\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
-\deftab720
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh16580\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 *************************Documentation By Nagaraj S Kharvi*************************\
+\
+\
 \pard\pardeftab720\sa298\partightenfactor0
 
-\f0\fs48 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Configuring Logback with Spring Boot
+\fs48 \cf2 \expnd0\expndtw0\kerning0
+Configuring Logback with Spring Boot
 \fs28 \
 \pard\pardeftab720\sa240\partightenfactor0
 \cf2 Logback is provided out of the box with Spring Boot when you use one of the Spring Boot starter dependencies as they include spring-boot-starter-logging providing logging without any configuration and can be altered to work differently if required. There are two ways of providing your own configuration, if you only need simpler alterations they can be added to a properties file such as application.properties or for more complex needs you can use XML or Groovy to specify your settings. In this tutorial we will focus on using XML to define custom logging configuration and look at some of the basics of doing so, as well as a brief look at using property files to specify simple alterations to the standard setup provided by Spring Boot.\
@@ -38,7 +42,7 @@ In this post I have used the dependency spring-boot-starter to pull in spring-bo
   </dependency>\
 </dependencies>\
 \pard\pardeftab720\sa240\partightenfactor0
-\cf2 logback-classic contains the logback-core dependency and between them they contain everything we need to get started. {\field{\*\fldinst{HYPERLINK "https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Spring Boot logging guide}} mentions that a dependency on jcl-over-slf4j is required but this is missing when using spring-boot-starter-parent at version 2.0.0.M3 so I assume some magic has been done somewhere to remove this dependency. Although it does exist if you are using (the current) version 1.5.6.RELEASE.\
+\cf2 logback-classic contains the logback-core dependency and between them they contain everything we need to get started. {\field{\*\fldinst{HYPERLINK "https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html"}}{\fldrslt \cf3 \ul \ulc3 Spring Boot logging guide}} mentions that a dependency on jcl-over-slf4j is required but this is missing when using spring-boot-starter-parent at version 2.0.0.M3 so I assume some magic has been done somewhere to remove this dependency. Although it does exist if you are using (the current) version 1.5.6.RELEASE.\
 Before we start looking at configuring Logback its worth having a quick look through how to send a message to the log from within a class.\
 \pard\pardeftab720\partightenfactor0
 \cf2 @Service\
@@ -78,40 +82,40 @@ Now we can start looking at configuring Logback itself by starting with a relati
 \pard\pardeftab720\sa240\partightenfactor0
 \cf2 It creates an appender of class ConsoleAppender which will output log messages to the console like System.out.print normally would. A pattern is set that the log messages will adhere to which come provided with some notations that are replaced with generated values depending on message that has been sent to the logger. Some notations have been included in the example and below are explanations of what each do.\
 \pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
-\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %d - outputs the time which the log message occurred in formats that SimpleDateFormat allows.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %thread - outputs the name of the thread that the log message occurred in.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 $-5level - outputs the logging level of the log message.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %logger\{36\} - outputs the package + class name the log message occurred in. The number inside the brackets represents the maximum length of the package + class name. If the output is longer than the specified length it will take a substring of the first character of each individual package starting from the root package until the output is below the maximum length. The class name will never be reduced. A nice diagram of this can be found in the {\field{\*\fldinst{HYPERLINK "https://logback.qos.ch/manual/layouts.html#conversionWord"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Conversion word docs}}.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %M - outputs the name of the method that the log message occurred in (apparently this is quite slow to use and not recommended unless your not worried about performance or the method name is particularly important to you).\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %msg - outputs the actual log message.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %n - line break\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 %magenta() - sets the colour of the output contained in the brackets to magenta (other colours are available).\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 highlight() - sets the colour of the output contained in the brackets to the depending on the logging level (for example ERROR = red).\
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%d - outputs the time which the log message occurred in formats that SimpleDateFormat allows.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%thread - outputs the name of the thread that the log message occurred in.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+$-5level - outputs the logging level of the log message.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%logger\{36\} - outputs the package + class name the log message occurred in. The number inside the brackets represents the maximum length of the package + class name. If the output is longer than the specified length it will take a substring of the first character of each individual package starting from the root package until the output is below the maximum length. The class name will never be reduced. A nice diagram of this can be found in the {\field{\*\fldinst{HYPERLINK "https://logback.qos.ch/manual/layouts.html#conversionWord"}}{\fldrslt \cf3 \ul \ulc3 Conversion word docs}}.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%M - outputs the name of the method that the log message occurred in (apparently this is quite slow to use and not recommended unless your not worried about performance or the method name is particularly important to you).\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%msg - outputs the actual log message.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%n - line break\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+%magenta() - sets the colour of the output contained in the brackets to magenta (other colours are available).\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+highlight() - sets the colour of the output contained in the brackets to the depending on the logging level (for example ERROR = red).\
 \pard\pardeftab720\sa240\partightenfactor0
 \cf2 The appender that was created is then referenced in the root logger. In the above example the logging level has been set to INFO (lowercase or uppercase can be used). Causing it to only output messages that are defined at log level INFO or above (INFO, WARN, ERROR).\
 The available logging levels in Logback are:\
 \pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
-\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 OFF (output no logs)\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ERROR\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 WARN\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 INFO\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 DEBUG\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 TRACE\
+\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+OFF (output no logs)\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+ERROR\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+WARN\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+INFO\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+DEBUG\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+TRACE\
 \pard\pardeftab720\sa240\partightenfactor0
 \cf2 Returning to the snippet shown above with the logging level of INFO only messages of level INFO or above (WARN and ERROR) are output to the log. So if we called MyService.doStuff("value") it would generate the following (spring related logs have been removed from this and all following output examples).\
 \pard\pardeftab720\partightenfactor0
@@ -130,7 +134,7 @@ When using Spring Boot, a default configuration for Logback is provided which is
 \pard\pardeftab720\partightenfactor0
 \cf2 <include resource="org/springframework/boot/logging/logback/base.xml"/>\
 \pard\pardeftab720\sa240\partightenfactor0
-\cf2 See {\field{\*\fldinst{HYPERLINK "https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html#howto-configure-logback-for-logging"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Spring Boot docs - Configure Logback for logging}} for more information on this.\
+\cf2 See {\field{\*\fldinst{HYPERLINK "https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html#howto-configure-logback-for-logging"}}{\fldrslt \cf3 \ul \ulc3 Spring Boot docs - Configure Logback for logging}} for more information on this.\
 If you want to log messages of class at a different level to the root level then you can define your own logger for the class. This will allow you to set the logging level for that particular class as well as specify other properties that are unique to that class. Below is how you would define a logger for a single class.\
 \pard\pardeftab720\partightenfactor0
 \cf2 <logger name="com.lankydan.service.MyServiceImpl" level="debug">\
@@ -289,7 +293,7 @@ To rollover only on file size a rolling policy of FixedWindowRollingPolicy and a
 \cf2 The optional properties of minIndex and maxIndex found in the FixedWindowRollingPolicy specify minimum and maximum value that %i can take in the log file names. Therefore in the above example when the logs are rolled over they can take the name log_2.log and log_3.log (although starting for 2 is weird and only included for clarity, normally it would start from 1). The process of generating the log files is as follows (using the above code snippet as an example); the log.log file will take all new log inputs and when the maxFileSize is reached log.log is renamed to the archived file log_2.log and a new log.log file is created, when log_2.log has also reached the max size all log files are renamed and shifted along one with a new log.log file being created again. This process will continue if the maxIndex is not set, but when it is the log file with the specified maximum index is deleted (it contains the oldest messages) at the point when another archive file should be created. Following the same example from above this means when log_4.log should be created log_3.log is deleted instead and all the other logs are renamed accordingly.\
 If you are confused about what I have written above regarding how the files are rolled over, don't worry as even I think after writing that explanation it could be done better. So below I have made a second attempt to illustrate how it works (which hopefully is easier to understand).\
 log.log maximum file size reached -> log.log renamed to log_2.log and new log.log is created\uc0\u8232 log_2.log maximum file size reached -> log_2.log renamed to log_3.log, log.log named to log_2.log and new log.log is created log_3.log maximum file size reached -> log_3.log is deleted, log_2.log renamed to log_3.log, log.log renamed to log_2.log and new log.log is created\
-If I have still done a bad job explaining this process to you then see the {\field{\*\fldinst{HYPERLINK "https://logback.qos.ch/manual/appenders.html#FixedWindowRollingPolicy"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 FixedWindowRollingPolicy docs}} which will hopefully get you there if I have failed...\
+If I have still done a bad job explaining this process to you then see the {\field{\*\fldinst{HYPERLINK "https://logback.qos.ch/manual/appenders.html#FixedWindowRollingPolicy"}}{\fldrslt \cf3 \ul \ulc3 FixedWindowRollingPolicy docs}} which will hopefully get you there if I have failed...\
 SizeAndTimeBasedRollingPolicy takes parts of both the examples above allowing it to rollover on size and time. Note that it uses both the %d and %i notation for including the date and log number respectively in the file name.\
 \pard\pardeftab720\partightenfactor0
 \cf2 <appender name="SAVE-TO-FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">\
@@ -386,4 +390,9 @@ logging.file=$\{logging.path\}/log.log\
 logging.pattern.file=%d\{dd-MM-yyyy HH:mm:ss.SSS\} [%thread] %-5level %logger\{36\}.%M - %msg%n\
 logging.pattern.console=\
 \pard\pardeftab720\sa240\partightenfactor0
-\cf2 I think that I should wrap up this post at this point as it was a lot longer than I was originally expecting. That being said there is a lot more that can be done with Logback and Spring Boot that I have not covered here. In conclusion from this tutorial you should have grasped a understanding on how to use Logback with Spring Boot, including how to use property files to alter the default settings provided by Spring Boot and how to go even further and create your own custom made configurations using Logback via logback.xml and logback-spring.xml. As well as having an idea of the limits that configuration inside property files can provide so that you know when it is time to switch over to using Logback directly to get you to the finish line.}
+\cf2 I think that I should wrap up this post at this point as it was a lot longer than I was originally expecting. That being said there is a lot more that can be done with Logback and Spring Boot that I have not covered here. In conclusion from this tutorial you should have grasped a understanding on how to use Logback with Spring Boot, including how to use property files to alter the default settings provided by Spring Boot and how to go even further and create your own custom made configurations using Logback via logback.xml and logback-spring.xml. As well as having an idea of the limits that configuration inside property files can provide so that you know when it is time to switch over to using Logback directly to get you to the finish line.\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\fs24 \cf0 \kerning1\expnd0\expndtw0 *************************Documentation By Nagaraj S Kharvi*************************}
