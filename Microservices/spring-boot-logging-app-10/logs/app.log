@@ -1,0 +1,875 @@
+[17-12-2020 22:20:01.677][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.681][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.682][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.682][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.682][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.683][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.683][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.683][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.684][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.684][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.684][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.685][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.686][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.687][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.688][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.688][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.688][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.688][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.688][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.688][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.689][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.689][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.689][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.689][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.689][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.690][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.690][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.690][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.690][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.691][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.691][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.691][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.691][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.691][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.692][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.693][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.694][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.695][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.696][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.696][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.696][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.698][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.698][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.699][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.699][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.699][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.699][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.700][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.701][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.702][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.703][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.704][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.705][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.706][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.707][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.708][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.709][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.710][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.711][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.712][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.713][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.713][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.713][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.713][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.713][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.713][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.714][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.714][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.714][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.715][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.715][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.715][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.715][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.716][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.716][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.716][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.716][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.716][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.717][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.717][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.717][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.717][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.717][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.718][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.719][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.720][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.720][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.720][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.720][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.720][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.720][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.721][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.722][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.723][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.723][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.723][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.724][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.724][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.724][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.724][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.724][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.724][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.725][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.726][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.727][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.728][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.728][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.728][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.728][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.728][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.728][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.729][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.729][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.729][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.730][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.730][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.730][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.730][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.731][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.731][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.732][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.732][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.733][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.734][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.735][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.736][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.736][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.736][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.736][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.736][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.736][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.737][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.737][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.737][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.737][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.737][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.737][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.738][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.739][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.740][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.741][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.742][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.743][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.744][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.745][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.745][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.745][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.745][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.745][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.745][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.746][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.748][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.748][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.748][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.749][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.749][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.749][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.749][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.750][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.750][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.751][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.751][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.752][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.753][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.753][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.753][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.753][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.753][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.754][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.754][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.754][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.754][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.754][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.755][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.756][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.757][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.758][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.759][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.760][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.760][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.760][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.760][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.761][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.761][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.761][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.761][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.761][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.762][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.762][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.762][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.762][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.762][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.762][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.763][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.763][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.763][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.763][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.763][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.764][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.765][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.766][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.767][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.768][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.768][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.768][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.768][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.768][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.768][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.769][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.769][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.769][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.769][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.769][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.769][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.770][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.770][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.771][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.771][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.771][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.771][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.772][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.772][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.772][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.772][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.773][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.773][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.773][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.774][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.775][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.776][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.777][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.778][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.779][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.780][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.781][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.782][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.783][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.784][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.785][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.785][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.785][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.785][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.785][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.785][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.787][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.787][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.788][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.789][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.789][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.790][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.790][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.790][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.791][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.792][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.793][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.794][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.794][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.794][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.794][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.794][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.795][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.795][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.795][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.795][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.795][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.795][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.796][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.796][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.796][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.796][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.796][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.796][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.797][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.798][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.799][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.800][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.801][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.801][/][35m[http-nio-8080-exec-7][0;39m [34mINFO [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.801][/][35m[http-nio-8080-exec-7][0;39m [39mDEBUG[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.801][/][35m[http-nio-8080-exec-7][0;39m [31mWARN [0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:20:01.801][/][35m[http-nio-8080-exec-7][0;39m [1;31mERROR[0;39m [36mcom.example.demo.controller.CallController.getMessage[0;39m->CallController : getMessage 
+[17-12-2020 22:29:00.130][/][35m[RMI TCP Connection(20)-127.0.0.1][0;39m [34mINFO [0;39m [36morg.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown[0;39m->Application shutdown requested. 
+[17-12-2020 22:29:00.151][/][35m[RMI TCP Connection(20)-127.0.0.1][0;39m [34mINFO [0;39m [36morg.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown[0;39m->Shutting down ExecutorService 'applicationTaskExecutor' 

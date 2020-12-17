@@ -1,0 +1,11 @@
+Time to use both Console and File Appenders
+
+Using xml 
+
+OR
+Properties file
+***************
+logging.pattern.console=
+logging.path=logs
+logging.file=${logging.path}/log.log
+logging.pattern.file=%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
